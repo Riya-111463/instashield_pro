@@ -1,0 +1,6 @@
+streamlit
+instagrapi
+deep-translator
+pandas
+plotly
+streamlit-lottie
